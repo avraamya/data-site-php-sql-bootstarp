@@ -9,4 +9,4 @@ The site allows operations INSERT, DELETE, UPDATE, SEARCH by using the database.
 * Avraham Yagudaev
 
 Illustration image for the site:
-http://prntscr.com/u7jcs3
+http://prntscr.com/u7iryu
