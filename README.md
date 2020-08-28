@@ -4,6 +4,10 @@ This site was builded by using technologies like: MySql, Bootstrap, Php, Crud, M
 The site allows operations INSERT, DELETE, UPDATE, SEARCH by using the database.
 
 **was build and design by:
-Nir Farshy &
-Avraham Yagudaev**
 
+**Nir Farshy 
+
+**Avraham Yagudaev
+
+Illustration image for the site:
+http://prntscr.com/u7iryu
